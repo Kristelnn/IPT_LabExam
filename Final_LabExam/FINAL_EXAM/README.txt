@@ -1,11 +1,11 @@
-Fantasy RPG Battle Simulator
+RPG Battle Simulator
 
 Description:
 
 This application simulates a turn-based battle between mystical champions in a fantasy world — but with a twist. 
 The champions are inspired by the real personalities of our group members from our  classroom.
 Just like in class, each character brings their own unique strengths and quirks into the battlefield. 
-The Fantasy RPG Battle Simulator transforms our typical school dynamic into a magical combat arena, where everyday 
+The RPG Battle Simulator transforms our typical school dynamic into a magical combat arena, where everyday 
 traits like being dramatic, calm, or humorous become powerful combat abilities. Designed in C# using Windows Forms, 
 this project blends object-oriented programming with creativity, humor, and a touch of school spirit — turning our 
 classroom into a fantasy adventure!
