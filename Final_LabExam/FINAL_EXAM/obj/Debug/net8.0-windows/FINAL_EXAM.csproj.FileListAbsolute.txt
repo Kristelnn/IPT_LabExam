@@ -1,0 +1,43 @@
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\characters\antemaloi_crusader.png
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\characters\bgbg.png
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\characters\oa_sorcerer.png
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\characters\taolangadventurer.png
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.exe
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.deps.json
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.runtimeconfig.json
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.dll
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.pdb
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\ClassmatesRPG.BattleForm.resources
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\ClassmatesRPG.ClassFighter.resources
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.csproj.GenerateResource.cache
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.AssemblyInfoInputs.cache
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.AssemblyInfo.cs
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.csproj.CoreCompileInputs.cache
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.dll
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\refint\FINAL_EXAM.dll
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.pdb
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.genruntimeconfig.cache
+D:\FINAL_LAB_EXAM-main\FINAL_LAB_EXAM-main\FINAL_EXAM\FINAL_EXAM\obj\Debug\net8.0-windows\ref\FINAL_EXAM.dll
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\characters\antemaloi_crusader.png
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\characters\bgbg.png
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\characters\oa_sorcerer.png
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\characters\taolangadventurer.png
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.exe
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.deps.json
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.runtimeconfig.json
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.dll
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\bin\Debug\net8.0-windows\FINAL_EXAM.pdb
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\ClassmatesRPG.BattleForm.resources
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\ClassmatesRPG.ClassFighter.resources
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.csproj.GenerateResource.cache
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.AssemblyInfoInputs.cache
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.AssemblyInfo.cs
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.sourcelink.json
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.dll
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\refint\FINAL_EXAM.dll
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.pdb
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\FINAL_EXAM.genruntimeconfig.cache
+C:\Users\Kristel Ann Dacanay\OneDrive\Desktop\IPT_LabExam\Final_LabExam\FINAL_EXAM\obj\Debug\net8.0-windows\ref\FINAL_EXAM.dll

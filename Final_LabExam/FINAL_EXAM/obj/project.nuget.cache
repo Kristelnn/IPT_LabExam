@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2TDm3Et0FI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristel Ann Dacanay\\OneDrive\\Desktop\\IPT_LabExam\\Final_LabExam\\FINAL_EXAM\\FINAL_EXAM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristel Ann Dacanay\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kristel Ann Dacanay\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
